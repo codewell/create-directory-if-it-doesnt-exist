@@ -1,0 +1,23 @@
+{
+  "name": "@codewell/create-directory-if-it-doesnt-exist",
+  "version": "0.0.1",
+  "description": "Function that creates a directory in node if it doesnt exist. This is good for folders that contain files since git ignores empty folders.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/create-directory-if-it-doesnt-exist.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/create-directory-if-it-doesnt-exist/issues"
+  },
+  "homepage": "https://github.com/codewell/create-directory-if-it-doesnt-exist#readme"
+}
